@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886437958207",
+    "project_id": "ssafytime",
+    "storage_bucket": "ssafytime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886437958207:android:d31494c5f303d9280f9e8a",
+        "android_client_info": {
+          "package_name": "com.ssafy.ssafytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886437958207-agmbk2srd5b8jprm6l652qgh75l1m2gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06rKDokoQtAcuI2XqdDeQB1z_TZb8eow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886437958207-agmbk2srd5b8jprm6l652qgh75l1m2gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
